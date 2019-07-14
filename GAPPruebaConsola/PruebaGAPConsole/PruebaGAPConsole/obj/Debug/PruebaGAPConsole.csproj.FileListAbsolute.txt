@@ -1,0 +1,14 @@
+D:\Users\jm5795cp\source\repos\GAPPruebaConsola\PruebaGAPConsole\PruebaGAPConsole\bin\Debug\PruebaGAPConsole.exe.config
+D:\Users\jm5795cp\source\repos\GAPPruebaConsola\PruebaGAPConsole\PruebaGAPConsole\bin\Debug\PruebaGAPConsole.exe
+D:\Users\jm5795cp\source\repos\GAPPruebaConsola\PruebaGAPConsole\PruebaGAPConsole\bin\Debug\PruebaGAPConsole.pdb
+D:\Users\jm5795cp\source\repos\GAPPruebaConsola\PruebaGAPConsole\PruebaGAPConsole\obj\Debug\PruebaGAPConsole.csprojAssemblyReference.cache
+D:\Users\jm5795cp\source\repos\GAPPruebaConsola\PruebaGAPConsole\PruebaGAPConsole\obj\Debug\PruebaGAPConsole.csproj.CoreCompileInputs.cache
+D:\Users\jm5795cp\source\repos\GAPPruebaConsola\PruebaGAPConsole\PruebaGAPConsole\obj\Debug\PruebaGAPConsole.exe
+D:\Users\jm5795cp\source\repos\GAPPruebaConsola\PruebaGAPConsole\PruebaGAPConsole\obj\Debug\PruebaGAPConsole.pdb
+D:\Users\jm5795cp\Documents\PruebasGAP\GAPPruebaConsola\PruebaGAPConsole\PruebaGAPConsole\bin\Debug\PruebaGAPConsole.exe.config
+D:\Users\jm5795cp\Documents\PruebasGAP\GAPPruebaConsola\PruebaGAPConsole\PruebaGAPConsole\bin\Debug\PruebaGAPConsole.exe
+D:\Users\jm5795cp\Documents\PruebasGAP\GAPPruebaConsola\PruebaGAPConsole\PruebaGAPConsole\bin\Debug\PruebaGAPConsole.pdb
+D:\Users\jm5795cp\Documents\PruebasGAP\GAPPruebaConsola\PruebaGAPConsole\PruebaGAPConsole\obj\Debug\PruebaGAPConsole.csprojAssemblyReference.cache
+D:\Users\jm5795cp\Documents\PruebasGAP\GAPPruebaConsola\PruebaGAPConsole\PruebaGAPConsole\obj\Debug\PruebaGAPConsole.csproj.CoreCompileInputs.cache
+D:\Users\jm5795cp\Documents\PruebasGAP\GAPPruebaConsola\PruebaGAPConsole\PruebaGAPConsole\obj\Debug\PruebaGAPConsole.exe
+D:\Users\jm5795cp\Documents\PruebasGAP\GAPPruebaConsola\PruebaGAPConsole\PruebaGAPConsole\obj\Debug\PruebaGAPConsole.pdb
